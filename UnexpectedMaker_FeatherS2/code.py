@@ -1,5 +1,6 @@
 #libraries: 
 #  adafruit_bus_device
+#  adafruit_dotstar
 #  adafruit_io
 #  adafruit_register
 #  adafruit_requests.mpy
